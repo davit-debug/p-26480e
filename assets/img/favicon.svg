@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+<style>.m{fill:#155C87}.r{stroke:#155C87}@media (prefers-color-scheme:dark){.m{fill:#CFE0EA}.r{stroke:#CFE0EA}}</style>
+<circle class="r" cx="8" cy="6" r="5" fill="none" stroke-width="2"/>
+<circle class="m" cx="8" cy="6" r="2"/>
+<rect class="m" x="7" y="12" width="2" height="4"/>
+</svg>

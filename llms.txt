@@ -1,0 +1,33 @@
+# SEO Lab — SEO სააგენტო თბილისში
+
+> SEO Lab (seolab.ge) is an SEO agency based in Tbilisi, Georgia, working in Georgian. It publishes its prices, its working method, a sample monthly report, its written commitments and a dated public log of its own website's search performance. It makes no ranking guarantees and publishes no numbers about past work.
+
+## Main pages
+- [Home — SEO სააგენტო საქართველოში](https://seolab.ge/): services, price table, method, commitments, FAQ, free audit request.
+- [Services](https://seolab.ge/momsakhureba/): the six services, their monthly units and how they fit together.
+- [Technical SEO](https://seolab.ge/momsakhureba/teknikuri-seo/), [Keywords and content](https://seolab.ge/momsakhureba/sakvandzo-sitkvebi-da-kontenti/), [Local SEO](https://seolab.ge/momsakhureba/lokaluri-seo/), [E-commerce SEO](https://seolab.ge/momsakhureba/onlain-maghaziis-seo/), [Link building](https://seolab.ge/momsakhureba/linkbildingi/), [AI search](https://seolab.ge/momsakhureba/ai-dzieba/): what is done each month, what the client receives, how it is measured.
+- [Prices](https://seolab.ge/tarifebi/): three tiers with monthly minimums, setup, first-month total, terms and a dated price history.
+- [Free SEO audit](https://seolab.ge/seo-auditi/): the 9 checkpoints, a sample audit (also as PDF) and the request form.
+- [Method](https://seolab.ge/metodi/): five steps, the document each step produces, what is needed from the client.
+- [Sample monthly report](https://seolab.ge/angarishi-nimushi/): the report structure with illustrative numbers (also as PDF).
+- [Commitments](https://seolab.ge/valdebulebebi/): what is promised, what is not, and how each commitment can be checked.
+- [Public log](https://seolab.ge/chanatserebi/): monthly, dated measurements of this site's own Search Console data for the query „seo სააგენტო“.
+- [SEO glossary](https://seolab.ge/leksikoni/): Georgian SEO terms with short definitions.
+- [About](https://seolab.ge/shesakheb/), [Contact](https://seolab.ge/dagvikavshirdit/), [Terms and privacy](https://seolab.ge/pirobebi-da-konfidencialuroba/).
+
+## Blog (https://seolab.ge/blog/)
+- [What SEO (სეო) optimisation is and how Google Search works](https://seolab.ge/blog/ra-aris-seo-optimizacia/): Google's crawling, indexing and serving, what SEO is not, what a business can check in Search Console.
+- [Keywords in Georgian: "SEO" or "სეო"](https://seolab.ge/blog/sakvandzo-sitkvebi-qartulad/): Latin vs Georgian-script search volumes in Georgia (Ahrefs estimates, 2026-10-25), autocomplete, declension and transliteration.
+- [On-page and off-page SEO: which comes first](https://seolab.ge/blog/on-page-da-off-page-seo/): a decision guide.
+- [SEO specialist, freelancer or agency: whom to hire and when](https://seolab.ge/blog/seo-specialisti-tu-saagento/).
+- [Local SEO: map results and "near me" searches](https://seolab.ge/blog/ra-aris-lokaluri-seo/): Google's relevance, distance and prominence factors.
+- [SEO agency evaluation sheet](https://seolab.ge/blog/seo-saagentos-shefasebis-furceli/): weighted criteria, red flags and questions to ask before signing.
+- [SEO offer check](https://seolab.ge/shetavazebis-shemowmeba/): the same sheet as a form — nine questions, a score out of 100 and three exclusion flags; nothing is sent or stored.
+
+## Facts
+- Founded: 2026, Tbilisi.
+- Language: Georgian (ka).
+- Services: technical SEO, keyword research and content, local SEO and Google Business Profile, e-commerce SEO, link building, optimisation for AI search.
+- Prices: three fixed monthly tiers, {X}–{X} GEL; the setup fee, first-month total, terms and VAT status are on https://seolab.ge/tarifebi/.
+- Free audit: 9 checkpoints from public data (no Search Console access needed), delivered as a PDF within {N} working days.
+- Contact: {mailbox}@seolab.ge
